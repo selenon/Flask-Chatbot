@@ -87,3 +87,4 @@ To expose the bot publicly:
 - Uses TensorFlow/Keras with embedding layers
 - NLTK for text preprocessing
 - Pattern matching based on trained intents
+- Response selection from predefined options
