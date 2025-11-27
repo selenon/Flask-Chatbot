@@ -81,10 +81,3 @@ To expose the bot publicly:
 1. Install ngrok: `pip install flask-ngrok`
 2. Uncomment `run_with_ngrok(app)` in `app.py`
 3. Configure ngrok credentials
-
-## Model Details
-
-- Uses TensorFlow/Keras with embedding layers
-- NLTK for text preprocessing
-- Pattern matching based on trained intents
-- Response selection from predefined options
